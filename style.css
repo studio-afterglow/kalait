@@ -953,8 +953,10 @@ p{
         font-family: 'Oleo Script Swash Caps';
         font-size: 2em;
         color: white;
-        
     }
+	.post h1{
+		font-size: 15vw;
+	}
 }
 @media screen and (min-width:850px){
     .hamburger-menu{
